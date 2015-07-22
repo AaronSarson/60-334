@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- This xml document contains all the story information, as well as elements
+to be replaced (heroes, villains, etc) Todd Baert, 102490961-->
+
+<stories>
+	<story>
+                <storynumber>1</storynumber>
+		<page>
+                    <pagenumber>1</pagenumber>
+                        <text>This is a story about <hero></hero>. One day, <hero></hero> went on a walk in the woods. While walking through the woods, <hero></hero> got lost! "Oh no!" <hero></hero> exclaimed, "Lost in the Woods!" Just then, <hero></hero> saw someone had a home in the forest. It was a <lair></lair>!
+                        </text>
+		</page>
+		<page>
+                    <pagenumber>2</pagenumber>
+			<text><hero></hero> went inside and started looking for something to eat!. Suddenly, a <villain></villain> appeared, and said, "This is my house, and now I'll eat you!" "Oh no!" said <hero></hero>. "Get into this pot so I can cook you!" said the <villain></villain>. But <hero></hero> tricked the <villain></villain> by asking, "How? You do it first to demonstrate!" So the <villain></villain> got into the pot. <hero></hero> closed the lid and ran!
+                        </text>
+		</page>
+		<page>
+                    <pagenumber>3</pagenumber>
+			<text>And that is the story of how <hero></hero> escaped the <villain></villain>. <hero></hero> lived happily ever after!
+                        </text>
+		</page>
+	</story>
+	<story>
+            <storynumber>2</storynumber>
+		<page>
+                    <pagenumber>1</pagenumber>
+                    <text>This is a story about <hero></hero>. <hero></hero> and Mother didn't have any money. Poor <hero></hero>! One day, <hero></hero> met a stranger selling magical beans. "SOLD!" said <hero></hero>, and bought the beans with the last penny the family had. <hero></hero>'s mother was very upset. "There is no such thing as magic beans!" she said, and threw them out the window. Uh-oh, <hero></hero>!
+                    </text>
+		</page>
+		<page>
+                    <pagenumber>2</pagenumber>
+			<text>That night, a huge beanstalk grew out of the earth where <hero></hero>'s mother had thrown the beans. <hero></hero> climbed and climbed, and at the top, found a <lair></lair>. <hero></hero> went inside and saw lots of treasure, so <hero></hero> took the treasure. But then a <villain></villain>, whom the treasure belonged to, saw <hero></hero> and said, "That's mine, thief! I'll get you!" The <villain></villain> chased <hero></hero> down the beanstalk.
+                        </text>
+		</page>
+		<page>
+                    <pagenumber>3</pagenumber>
+			<text><hero></hero> got to the bottom first and cut the beanstalk down! The <villain></villain> fell! <hero></hero> kept all the treasure and <hero></hero> and mother lived happily ever after!
+                        </text>
+		</page>
+	</story>
+	<story>
+            <storynumber>3</storynumber>
+            <page>
+                    <pagenumber>1</pagenumber>
+			<text>This is a story about <hero></hero>. <hero></hero> went to visit Grandma, and decided to take a shortcut through the forest. <hero></hero> didn't know, but a <villain></villain> was following <hero></hero> the whole time!
+                        </text>
+            </page>
+            <page>
+                    <pagenumber>2</pagenumber>
+                        <text>The <villian></villian> got to Grandma's house first, and ate Grandma up! When <hero></hero> got there, the <villain></villain> said, "Hello <hero></hero>", come inside!" But that didn't fool <hero></hero>! "You're not Grandma!" "I ate Grandma, and now I'll eat you too!" said the <villain></villain>. Oh no, <hero></hero>!
+                        </text>
+		</page>
+		<page>
+                    <pagenumber>3</pagenumber>
+			<text>Just then, a friendly lumberjack heard the commotion, and came in. He chopped up the <villain></villain>, and rescued Grandma from the <villain></villain>'s belly. Everybody was safe, and they all become friends and lived happily ever after. "Yay!" said <hero></hero>!
+                        </text>
+		</page>
+	</story>
+
+  <prevlink/>
+  <homelink/>
+  <nextlink/>
+  
+</stories>
+

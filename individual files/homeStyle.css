@@ -1,0 +1,132 @@
+/* 
+    Created on : Jun 10, 2014, 4:45:09 PM
+    Author     : Aaron
+*/
+@import url(http://fonts.googleapis.com/css?family=Coming+Soon);
+@import url(http://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+html{
+
+    width:100%;
+    background: url(../images/background2160.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+}
+body{
+    margin :0;
+}
+
+#content, #newWork{
+  background: linear-gradient(#D9E6E6, #ffffff);
+}
+h1{
+    width: 600px;;
+    float:left;
+    text-align: right;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    color: #666;
+    text-shadow: 0px 1px 1px rgba(255,255,255,.3), 0px -1px 1px rgb(0,0,0,.3);
+}
+#nav {
+    background-color: #D9D9EB;
+    font-size: 1.3em;
+    float: right;
+    top: 0;
+    width: 100%;
+}
+#nav{
+    width: 100%;
+}
+#nav ul{
+     list-style-type: none;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     margin-right: 50px;
+}
+#navPrt1{
+    float:left;
+}
+#navPrt2{
+    float: right;
+}
+#navPrt2 li{
+    float: left;
+    display: block;
+}
+
+#navPrt2 li a {
+    text-decoration: none;
+    background: #ADD6FF;
+    display: block;
+    color: #9EB8D4;
+    margin-left: 15px;
+    border-radius: 5px;
+    transition: all .2s ease-in-out;
+    padding: 4px 6px 5px;
+}
+
+#navPrt1 li a {
+    text-decoration: none;
+    display: block;
+    color: #A4B0BC;
+    margin-left: 15px;
+    padding: 4px 6px 5px;
+}
+
+#nav ul li a:hover{
+    color: blue;
+}
+
+#content{
+    width: 30%;
+    float: left;
+    border-style:solid;
+    border-width: 3px;
+    margin-left: 30px;
+    //clear: right;
+}
+
+#newWork{
+    width: 25%;
+    float: left;
+    border-style:solid;
+    border-width: 3px;
+    margin-left: 50px;
+    //clear: right;
+}
+#pic{
+    width: 20%;
+    float: left;
+}
+h4{
+    padding: 10px;
+    margin: 10px;
+    color: #85AD33;
+    font-weight: bold;
+    font-size: 1.4em;
+    font-family: 'Coming Soon', cursive;
+}
+
+#title{
+float: left;
+margin-left: auto;
+margin-right: auto;
+width: 400px;
+font-size: 2em;
+font-family: 'Pacifico', cursive;
+}
+#first{
+    float:left;
+    width: 100%;
+}
+p{
+     margin-left: 10px;
+}
+p.intro{
+    font-family: 'Architects Daughter', cursive;
+}
+
+#noBooksMessage{
+    color: buttonshadow;
+}

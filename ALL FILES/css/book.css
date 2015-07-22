@@ -1,0 +1,102 @@
+@import url(http://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+
+/*css for storybook pages - Todd Baert, 102490961*/
+
+html {
+    
+    width:100%;
+    background: url(../images/background2160.jpg) no-repeat center center fixed; 
+    background-size: cover;
+
+}
+
+body {
+    
+    width: 100%;
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 1.5em;
+    padding-top: 1em;
+
+}
+
+#storybook {
+    
+    //position: absolute;
+    padding-top: 1em;
+    top: 50%;
+    margin: 0 auto;
+    background-color: white;
+    height: 700px;
+    width:600px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+
+}
+
+
+#pagetext {
+        
+    margin: auto;
+    background-color: white;
+    width:500px;
+    height: 660px;
+    
+}
+
+#title{
+    
+    font-size: 3em;
+    display: block;
+    text-align: center;
+    padding-top: 1.5em;
+    
+}
+
+#image{
+    
+    padding-top: 1em;
+    
+}
+
+#image img {
+    
+    display: block;
+    margin: auto
+    
+}
+
+#links {
+    
+    display: inline-block;
+    width:481px;
+    height: 74px;
+    text-align: center;
+    position: relative;
+    
+}
+
+#homelink {
+    
+    padding-left: 2em;
+    padding-right: 2em;
+
+}
+
+#flipnext {
+ 
+    display: inline-block;
+    position: relative;
+    float: right;
+    bottom: 99px;
+    
+}
+
+#flipprev {
+    
+    display: inline-block;
+    position: relative;
+    float: left;
+    bottom: 25px;
+
+}

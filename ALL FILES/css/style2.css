@@ -1,0 +1,115 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo);
+
+html {
+
+    width:100%;
+    background: url(../images/background2160.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+}
+
+fieldset {
+    border:none;
+    margin-left: 10px; //shift fieldset to avoid rounded corners
+}
+
+h1{
+    font-family: 'Arvo', serif;
+    color: #006E30;
+    margin-top: 5px;
+	float: left;
+}
+
+
+form{
+  background: -webkit-linear-gradient(#ffffff,#ffffff); /*Safari 5.1-6*/
+  background: -o-linear-gradient(#ffffff,#ffffff); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(#ffffff,#ffffff); /*Fx 3.6-15*/
+  background: -ms-linear-gradient(#ffffff,#ffffff); /* IE10+ */
+  background: linear-gradient(#ffffff, #ffffff); /*Standard*/
+  
+  margin-top: 30px;
+  margin-left:auto;
+  margin-right: auto;
+  
+  width: 800px;
+  border: 5px solid #999;
+  
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
+
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
+-o-linear-gradient: 0px 0px 8px rgba(0, 0, 0, 1);
+-ms-linear-gradient: 0px 0px 8px rgba(0, 0, 0, 1);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
+}
+
+
+#buttons{
+width: 150px;
+height: 150px;
+display: inline-block;
+background-color: green;
+margin: auto;
+margin-top: 20px;
+margin-left: 40%;
+}
+
+.center1{
+    float: left;
+    margin-left: 30%
+}
+
+.center2{
+    float: right;
+    margin-right: 30%;
+}
+
+
+input
+{
+display:block;
+border: none;
+height: 25px;
+}
+
+input[type="password"],
+input[type="text"]
+{
+width:75%;
+border-radius: 10px;
+display:block;
+border: 1px solid #999;
+height: 25px;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+margin: auto;
+}
+input[type="submit"]:hover,
+input[type="text"]:hover{
+    background: #66CCFF;
+}
+
+select{
+width: 250px;
+display: inline-block;
+background-color: aqua;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 5px;
+border-radius: 10px;
+
+}
+
+/*-moz-border-radius: 30px;
+border-radius: 10px;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);*/
+
+/* this is excluded from buttons*/
+
+
